@@ -1,0 +1,11 @@
+2021-11-23 00:09:28,063 INFO com.loggingdemo.logex.LogexApplication [main] Starting LogexApplication using Java 11.0.12 on LAPTOP-CHH6O0C4 with PID 9712 (D:\SpringBoot\logex\target\classes started by ambica in D:\SpringBoot\logex)
+2021-11-23 00:09:28,063 DEBUG com.loggingdemo.logex.LogexApplication [main] Running with Spring Boot v2.6.0, Spring v5.3.13
+2021-11-23 00:09:28,063 INFO com.loggingdemo.logex.LogexApplication [main] No active profile set, falling back to default profiles: default
+2021-11-23 00:09:30,314 INFO com.loggingdemo.logex.LogexApplication [main] Started LogexApplication in 2.828 seconds (JVM running for 4.521)
+2021-11-23 00:13:13,939 INFO com.loggingdemo.logex.LogexApplication [main] Starting LogexApplication using Java 11.0.12 on LAPTOP-CHH6O0C4 with PID 1760 (D:\SpringBoot\logex\target\classes started by ambica in D:\SpringBoot\logex)
+2021-11-23 00:13:13,948 DEBUG com.loggingdemo.logex.LogexApplication [main] Running with Spring Boot v2.6.0, Spring v5.3.13
+2021-11-23 00:13:13,948 INFO com.loggingdemo.logex.LogexApplication [main] No active profile set, falling back to default profiles: default
+2021-11-23 00:13:17,071 INFO com.loggingdemo.logex.LogexApplication [main] Started LogexApplication in 4.122 seconds (JVM running for 4.802)
+2021-11-23 00:13:29,027 DEBUG com.loggingdemo.logex.HomeController [http-nio-8080-exec-1] Into hello end point using trace 123
+2021-11-23 00:13:30,284 DEBUG com.loggingdemo.logex.HomeController [http-nio-8080-exec-2] Into hello end point using trace 123
+2021-11-23 00:13:31,526 DEBUG com.loggingdemo.logex.HomeController [http-nio-8080-exec-3] Into hello end point using trace 123

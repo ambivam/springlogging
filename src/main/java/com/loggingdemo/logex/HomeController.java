@@ -12,7 +12,7 @@ public class HomeController {
 
     @GetMapping("/hello")
     public String hello(){
-        logger.trace("Into hello end point using trace 123");
+        logger.debug("Into hello end point using trace 123");
         return "Logging Example";
     }
 }
